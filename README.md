@@ -32,9 +32,9 @@ I chose to work on binary classification with the classes glacier and mountain f
 ### Some examples of images from this dataset:  
 
 #### Glacier  
-![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/Datasets/main/glacier/20111.jpg?raw=true "Glacier Example")
-![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/Datasets/main/glacier/20059.jpg?raw=true "Glacier Example")
-![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/Datasets/main/glacier/20164.jpg?raw=true "Glacier Example")  
+![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/main/Datasets/main/glacier/20111.jpg?raw=true "Glacier Example")
+![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/main/Datasets/main/glacier/20059.jpg?raw=true "Glacier Example")
+![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/main/Datasets/main/glacier/20164.jpg?raw=true "Glacier Example")  
 
 #### Mountain
 ![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/Datasets/main/mountain/20107.jpg?raw=true "Mountain Example")
@@ -48,12 +48,12 @@ Here are the accuracy and loss plots for the same:
 #### Accuracy:  
 Final training accuracy: 91.59%  
 Final validation accuracy: 80.30%  
-![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/acc.png?raw=true "Accuracies")
+![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/main/acc.png?raw=true "Accuracies")
 
 #### Loss:  
 Final training loss: 0.1983  
 Final validation loss: 0.8131
-![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/loss.png?raw=true "Losses")
+![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/main/loss.png?raw=true "Losses")
 
 
 We see here that the model performs pretty well with just 5 epochs. The performance could be much better with more number of epochs and fine tuning.
