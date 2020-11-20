@@ -20,7 +20,7 @@ c. A small writeup
 ### Chosen network for Transfer Learning:  
 VGG16
 
-### Choosen dataset:  
+### Chosen dataset:  
 [Intel Image Classification][https://www.kaggle.com/puneet6060/intel-image-classification]  
 This dataset contains images of Natural Scenes around the world and is contains the following classes:  
 buildings, forest, glacier, mountain, sea, street  
