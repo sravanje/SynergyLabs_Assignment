@@ -8,16 +8,16 @@ detection/classification. However you need a lot of data to train a good detecti
 which may not be readily available. Show use the use of transfer learning to train a model on
 less data (<1000 images) and still getting good results (>80% accuracy) to demonstrate use
 of transfer learning. You are free to pick a model of your choice and dataset of your choice.
-(just don’t pick dataset which is already used in initial training)
+(just don’t pick dataset which is already used in initial training)  
 
-What to submit:
-a. Source code of your python script (either in email or link to your github repo)
-b. List of websites/articles which you found helpful while doing your search
-c. A small writeup
+What to submit:  
+a. Source code of your python script (either in email or link to your github repo)  
+b. List of websites/articles which you found helpful while doing your search  
+c. A small writeup  
 
 ## Solution:  
 
-### Choosen network for Transfer Learning:  
+### Chosen network for Transfer Learning:  
 VGG16
 
 ### Choosen dataset:  
