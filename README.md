@@ -52,7 +52,7 @@ Final validation accuracy: 80.30%
 
 #### Loss:  
 Final training loss: 0.1983  
-Final validation loss: 0.8131
+Final validation loss: 0.8131  
 ![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/main/loss.png?raw=true "Losses")
 
 
