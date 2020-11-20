@@ -37,9 +37,9 @@ I chose to work on binary classification with the classes glacier and mountain f
 ![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/main/Datasets/main/glacier/20164.jpg?raw=true "Glacier Example")  
 
 #### Mountain
-![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/Datasets/main/mountain/20107.jpg?raw=true "Mountain Example")
-![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/Datasets/main/mountain/20181.jpg?raw=true "Mountain Example")
-![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/Datasets/main/mountain/20144.jpg?raw=true "Mountain Example")  
+![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/main/Datasets/main/mountain/20107.jpg?raw=true "Mountain Example")
+![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/main/Datasets/main/mountain/20181.jpg?raw=true "Mountain Example")
+![alt text](https://github.com/sravanje/SynergyLabs_Assignment/blob/main/Datasets/main/mountain/20144.jpg?raw=true "Mountain Example")  
 
 ### Results of the model trained:  
 The model was trained with the crossentropy loss, adam optimiser and for 5 epochs.  
